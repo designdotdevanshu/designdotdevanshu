@@ -140,13 +140,13 @@
 
 <br>
 
-## LeetCode Stats
+<!-- ## LeetCode Stats
 
 [![designdotdevanshu's LeetCode stats](https://leetcard.jacoblin.cool/designdotdevanshu?ext=heatmap)][leetcode]
 
 [![designdotdevanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=designdotdevanshu&theme=dark)][leetcode]
 
-<br>
+<br> -->
 
 ## 🏆 GitHub Trophies
 
