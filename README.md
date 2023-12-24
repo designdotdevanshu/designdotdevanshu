@@ -21,16 +21,15 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://dev.to/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="designdotdevanshu" /></a>
-<a href="https://linkedin.com/in/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="designdotdevanshu" /></a>
-<a href="https://codesandbox.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="designdotdevanshu" /></a>
-<a href="https://instagram.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="designdotdevanshu" /></a>
-<a href="https://medium.com/@designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@designdotdevanshu" /></a>
-<a href="https://www.leetcode.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="designdotdevanshu" /></a>
-<a href="https://discord.gg/1159154385125900339" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="1159154385125900339" /></a>
+  <a href="https://linkedin.com/in/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="designdotdevanshu" /></a>
+  <a href="https://instagram.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="designdotdevanshu" /></a>
+  <a href="https://x.com/design_devanshu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="design_devanshu" /></a>
+  <a href="https://www.leetcode.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="designdotdevanshu" /></a>
+  <a href="https://medium.com/@designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="@designdotdevanshu" /></a>
+  <a href="https://dev.to/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="designdotdevanshu" /></a>
+  <a href="https://codesandbox.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="designdotdevanshu" /></a>
+  <a href="https://discord.gg/1159154385125900339" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="1159154385125900339" /></a>
 </p>
-
-<br>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -139,12 +138,14 @@
 [youtube]: https://www.youtube.com/
 
 <br>
+
+## LeetCode Stats
+
+![designdotdevanshu's LeetCode stats](https://leetcard.jacoblin.cool/designdotdevanshu?ext=heatmap)
+
+[![designdotdevanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=designdotdevanshu&theme=dark)](
+
 <br>
-<!-- ## LeetCode Stats -->
-
-<!-- ![designdotdevanshu's LeetCode stats](https://leetcard.jacoblin.cool/designdotdevanshu?ext=heatmap) -->
-
-<!-- [![designdotdevanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=designdotdevanshu&theme=dark)]( -->
 
 ## 🏆 GitHub Trophies
 
