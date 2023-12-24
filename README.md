@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think semicolon is better than indentation**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="designdotdevanshu" /></a>
   <a href="https://instagram.com/designdotdevanshu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="designdotdevanshu" /></a>
@@ -31,7 +31,7 @@
   <a href="https://discord.gg/1159154385125900339" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="1159154385125900339" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+## Languages and Tools
 
 ### 🎯 **PROGRAMMING LANGUAGES**
 
@@ -134,16 +134,17 @@
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/designdotdevanshu?tab=repositories
 [youtube]: https://www.youtube.com/
+[repo]: https://github.com/designdotdevanshu?tab=repositories
+[leetcode]: https://leetcode.com/designdotdevanshu/
 
 <br>
 
 ## LeetCode Stats
 
-![designdotdevanshu's LeetCode stats](https://leetcard.jacoblin.cool/designdotdevanshu?ext=heatmap)
+[![designdotdevanshu's LeetCode stats](https://leetcard.jacoblin.cool/designdotdevanshu?ext=heatmap)][leetcode]
 
-[![designdotdevanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=designdotdevanshu&theme=dark)](
+[![designdotdevanshu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=designdotdevanshu&theme=dark)][leetcode]
 
 <br>
 
