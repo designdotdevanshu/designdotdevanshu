@@ -165,7 +165,7 @@
 
 ## Holopin
 
-[![@designdotdevanshu's Holopin board](https://holopin.me/designdotdevanshu)](https://holopin.me/designdotdevanshu)
+[![@designdotdevanshu's Holopin board](https://holopin.me/designdotdevanshu)](https://www.holopin.io/@designdotdevanshu#badges)
 
 ## Some Tech Memes for you
 
