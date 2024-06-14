@@ -167,9 +167,9 @@
 
 [![@designdotdevanshu's Holopin board](https://holopin.me/designdotdevanshu)](https://www.holopin.io/@designdotdevanshu#badges)
 
-## Some Tech Memes for you
+<!-- ## Some Tech Memes for you
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 <hr>
 <h3 align="center">
