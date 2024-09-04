@@ -154,14 +154,14 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=designdotdevanshu&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=designdotdevanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=designdotdevanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-### 🔝 Top Contributed Repo
+<!--  ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=designdotdevanshu&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=designdotdevanshu&limit=5&theme=radical&combine_all_yearly_contributions=true) -->
 
 ## Holopin
 
