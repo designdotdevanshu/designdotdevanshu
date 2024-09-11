@@ -154,8 +154,8 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula)](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula&mode=weekly&hide_total_contributions=true)](https://streak-stats.demolab.com?user=designdotdevanshu&theme=dracula&mode=weekly&hide_total_contributions=true)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=designdotdevanshu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
