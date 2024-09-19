@@ -3,19 +3,19 @@
 
 [![](https://visitcount.itsvg.in/api?id=designdotdevanshu&icon=3&color=1)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Sponsogram](https://sponsogram.vercel.app/)
+- 🔭 I’m currently working on [Sponsogram](https://www.sponsogram.in)
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [designdotdevanshu.me](https://designdotdevanshu.me/)
+- 👨‍💻 All of my projects are available at [www.devanshu.live](https://www.devanshu.live)
 
-- 📝 I regularly write articles on [designdotdevanshu.me](https://designdotdevanshu.me/)
+- 📝 I regularly write articles on [designdotdevanshu.me](https://www.devanshu.live)
 
 - 💬 Ask me about **React.js, Tailwind CSS and Next.js**
 
 - 📫 How to reach me **design.devanshu@gmail.com**
 
-- 📄 Know about my experiences by my [resume](https://flowcv.com/resume/9hkvw5a89c)
+- 📄 Know about my experiences by my [resume](https://drive.google.com/file/d/1pg2vttbdiVckoBC_T-M-7KzsfnJp08pu/view)
 
 - ⚡ Fun fact **I think semicolon is better than indentation**
 
