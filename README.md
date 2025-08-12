@@ -2,7 +2,7 @@
 
 # Hi, I'm Devanshu 👋
 
-**Digital Craftsman · AI Explorer · Problem Solver**  
+**Digital Craftsman · AI Explorer · Problem Solver**
 Building meaningful digital experiences with precision and purpose.
 
 [Portfolio](https://itsdevanshu.vercel.app) · [GitHub](https://github.com/designdotdevanshu) · [LinkedIn](https://www.linkedin.com/in/designdotdevanshu) · [X (formerly Twitter)](https://x.com/design_devanshu)
@@ -47,13 +47,8 @@ Building meaningful digital experiences with precision and purpose.
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true">
-    <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true" height="165" />
-  </a>
-
-  <a href="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true">
-    <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true" height="165" />
-  </a>
+  <img alt="GitHub Streak (Daily)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true" height="165" />
+  <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true" height="165" />
 </p>
 
 <p align="center">
@@ -79,9 +74,11 @@ Building meaningful digital experiences with precision and purpose.
 <details>
   <summary><b>Holopin Badges</b></summary>
   <p align="center">
+
     <a href="https://www.holopin.io/@designdotdevanshu">
       <img src="https://holopin.me/designdotdevanshu" alt="Holopin badge board" />
     </a>
+
   </p>
 </details>
 
