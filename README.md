@@ -47,8 +47,13 @@ Building meaningful digital experiences with precision and purpose.
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak (Daily)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true" height="165" />
-  <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true" height="165" />
+  <a href="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true">
+    <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true" height="165" />
+  </a>
+
+  <a href="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true">
+    <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true" height="165" />
+  </a>
 </p>
 
 <p align="center">
