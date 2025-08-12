@@ -46,10 +46,9 @@ Building meaningful digital experiences with precision and purpose.
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designdotdevanshu&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img alt="GitHub Streak (Daily)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true" height="165" />
-  <img alt="GitHub Streak (Weekly)" src="https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true" height="165" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true)](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true)](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true)
 
 <p align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=designdotdevanshu&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph&grid=true&days=40" />
@@ -67,14 +66,13 @@ Building meaningful digital experiences with precision and purpose.
 <details>
   <summary><b>GitHub Trophies</b></summary>
   <p align="center">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=designdotdevanshu&theme=flat&no-frame=true&row=1&margin-w=10" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=designdotdevanshu&theme=dracula&no-frame=true&row=1&margin-w=10" />
   </p>
 </details>
 
 <details>
   <summary><b>Holopin Badges</b></summary>
   <p align="center">
-
     <a href="https://www.holopin.io/@designdotdevanshu">
       <img src="https://holopin.me/designdotdevanshu" alt="Holopin badge board" />
     </a>
