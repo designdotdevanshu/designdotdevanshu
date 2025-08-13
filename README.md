@@ -2,10 +2,10 @@
 
 # Hi, I'm Devanshu 👋
 
-**Digital Craftsman · AI Explorer · Problem Solver**
-Building meaningful digital experiences with precision and purpose.
+**Frontend-Focused Full-Stack Engineer · AI Applications Builder** <br/>
+Building practical, user-focused digital products.
 
-[Portfolio](https://itsdevanshu.vercel.app) · [GitHub](https://github.com/designdotdevanshu) · [LinkedIn](https://www.linkedin.com/in/designdotdevanshu) · [X (formerly Twitter)](https://x.com/design_devanshu)
+[Portfolio](https://itsdevanshu.vercel.app) · [GitHub](https://github.com/designdotdevanshu) · [LinkedIn](https://www.linkedin.com/in/designdotdevanshu) · [X](https://x.com/design_devanshu)
 
 </div>
 
@@ -13,16 +13,16 @@ Building meaningful digital experiences with precision and purpose.
 
 ## What I’m focused on
 
-- Following the AI Engineer Roadmap → [roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer)
-- Learning and applying LLMs to real problems
+- Following the [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
+- Applying LLMs to real-world problems
 - Shipping minimal, valuable, user-centered solutions
 
 ## Selected work
 
-- **Sponsogram:** Next.js, TypeScript → [sponsogram.in](https://www.sponsogram.in)
-- **Perky Beans:** React, Tailwind → [perky-beans.vercel.app](https://perky-beans.vercel.app)
-- **Aurthafi:** Next.js, Auth → [aurthafi.vercel.app](https://aurthafi.vercel.app)
-- **Portfolio:** Next.js → [itsdevanshu.vercel.app](https://itsdevanshu.vercel.app)
+- **Sponsogram** — Sponsorship discovery platform. Next.js, TypeScript → [sponsogram.in](https://www.sponsogram.in)
+- **Perky Beans** — Coffee ordering PWA. MERN, SASS/SCSS → [perky-beans.vercel.app](https://perky-beans.vercel.app)
+- **Aurthafi** — Personal finance management tool. Next.js, Supabase → [aurthafi.vercel.app](https://aurthafi.vercel.app)
+- **Portfolio** — Personal site. Next.js, Sanity.io → [itsdevanshu.vercel.app](https://itsdevanshu.vercel.app)
 
 ## Tools I use
 
@@ -33,8 +33,11 @@ Building meaningful digital experiences with precision and purpose.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000" />
 </p>
 
 ---
@@ -86,5 +89,7 @@ Building meaningful digital experiences with precision and purpose.
 ---
 
 <p align="center">
-Thanks for visiting — open to collaborating on meaningful projects.
+Open to collaborating on impactful projects.
 </p>
+
+---
