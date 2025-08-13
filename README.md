@@ -49,12 +49,12 @@ Building practical, user-focused digital products.
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designdotdevanshu&layout=compact&langs_count=8&theme=transparent&hide_border=true" height="165" />
 </p>
 
-<p align="center">
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true)](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true)](https://streak-stats.demolab.com/?user=designdotdevanshu&theme=transparent&hide_border=true&mode=weekly&hide_total_contributions=true)
 
-</p>
+</div>
 
 <p align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=designdotdevanshu&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph&grid=true&days=40" />
