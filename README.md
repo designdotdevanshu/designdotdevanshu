@@ -22,7 +22,7 @@ Building practical, user-focused digital products.
 - **Woohl** — True social commerce platform. → [woohl.com](https://www.woohl.com)
 - **Sponsogram** — Sponsorship discovery platform. Next.js, TypeScript → [sponsogram.in](https://www.sponsogram.in)
 - **Perky Beans** — Coffee ordering PWA. MERN, SASS/SCSS → [perky-beans.vercel.app](https://perky-beans.vercel.app)
-- **Aurthafi** — Personal finance management tool. Next.js, Supabase → [aurthafi.vercel.app](https://aurthafi.vercel.app)
+- **Twigg** — Personal finance management tool. Next.js, Supabase → [twigg.vercel.app](https://twigg.vercel.app)
 - **Portfolio** — Personal site. Next.js, Sanity.io → [itsdevanshu.vercel.app](https://itsdevanshu.vercel.app)
 
 ## Tools I use
