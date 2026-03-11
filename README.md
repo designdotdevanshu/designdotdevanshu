@@ -73,7 +73,8 @@ Building practical, user-focused digital products.
 <details>
   <summary><b>GitHub Trophies</b></summary>
   <p align="center">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=designdotdevanshu&theme=dracula&no-frame=true&row=1&margin-w=10" />
+    <!-- <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=designdotdevanshu&theme=dracula&no-frame=true&row=1&margin-w=10" /> -->
+    <img alt="GitHub Trophies" src="https://github-profile-repo.vercel.app/?username=designdotdevanshu&theme=dracula&no-frame=true&row=1&margin-w=10" />
   </p>
 </details>
 
