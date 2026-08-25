@@ -5,7 +5,7 @@
 **Frontend-Focused Full-Stack Engineer · AI Applications Builder** <br/>
 Building practical, user-focused digital products.
 
-[Portfolio](https://itsdevanshu.vercel.app) · [GitHub](https://github.com/designdotdevanshu) · [LinkedIn](https://www.linkedin.com/in/designdotdevanshu) · [X](https://x.com/design_devanshu)
+[Portfolio](https://itsdevanshu.vercel.app) · [GitHub](https://github.com/designdotdevanshu) · [LinkedIn](https://www.linkedin.com/in/devanshu-sagar) · [X](https://x.com/design_devanshu)
 
 </div>
 
